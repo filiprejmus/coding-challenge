@@ -1,3 +1,6 @@
+
+
+
 # Taktile Coding Challenge
 
 Your challenge is to implement `fold` in the language of your choice.
@@ -19,29 +22,5 @@ You can find more information on [Wikipedia](https://en.wikipedia.org/wiki/Fold_
 
 ## Instructions
 
-Fork this repository.
-
-Implement `fold` in any language of your choice. Don't directly use the `fold` that is
-already part of your language (see the list on Wikipedia).
-
-Send us a link to your fork **within 1 week** of being invited to participate on this challenge.
-
-## Timebox
-
-Aim to use about 1 hour of time on the solution, don't use more than 2 hours. We give roughly
-equal weight to the each of the following:
-
-* Documentation
-* Packaging
-* Testing
-* Readability of code
-* Correctness of implementation
-* Performance
-* Generality
-* Correntness of types (if applicable)
-
-Please don't stress if your solution isn't perfect. With a timebox of at most 2 hours, 
-you most likely won't be able to check all the boxes above. This challenge is intended as an 
-exercise in tradeoffs. We want to understand how you view the overall value and lifecycle
-of software.
-
+To import and run fold in your project simply add
+`from fold import fold`
